@@ -1,0 +1,122 @@
+/* Creates a white box in a section. */
+.white-box-container {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0cm 4px 5px black;
+  position: absolute;
+  left: 10%;
+  margin-top: 10px;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  min-height: -moz-fit-content;
+  min-height: fit-content;
+  min-width: 80%;
+}
+
+/* Creates a box in a section. */
+.box-container {
+  background-color: rgb(227, 227, 227);
+  box-shadow: 0cm 3px 3px rgb(0, 0, 0);
+  position: relative;
+  left: 0%;
+  padding: 10px;
+  margin-top: 10px;
+  width: fit-content;
+  height: fit-content;
+  min-height: -moz-fit-content;
+  min-height: fit-content;
+  h3 {
+    color: rgb(0, 39, 167);
+  }
+  li {
+    color: rgb(0, 0, 0);
+  }
+}
+
+/* Applies the custom font style to all body text. */
+body {
+  font-family: "Orbitron", sans-serif;
+  background-color: rgb(187, 187, 187);
+}
+/* Styling for all paragraphs. */
+p {
+  font-family: "century gothic", sans-serif;
+  font-size: 1.2rem;
+  color: rgb(0, 0, 0);
+  padding: 5px;
+  text-align: left;
+  max-width: 100%;
+}
+
+/* Aligns h2 to the left and modifies the font. */
+h2 {
+  font-family: "Orbitron", sans-serif;
+  font-size: 1.6rem;
+  color: rgb(43, 149, 255);
+  text-align: left;
+  margin-top: 3%;
+}
+
+/* Styling for lists. */
+.default-list {
+  list-style: upper-roman;
+  li {
+    font-family: "century gothic", sans-serif;
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    text-align: left;
+    max-width: 100%;
+  }
+}
+
+/* Styling for the contact information list. */
+.contact-info-list {
+  list-style: armenian;
+  li {
+    font-family: "century gothic", sans-serif;
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    text-align: left;
+    max-width: 100%;
+  }
+}
+
+/* Main heading styling. */
+.main-heading {
+  font-family: "Orbitron", sans-serif;
+  font-size: 2rem;
+  color: rgb(0, 165, 105);
+  text-align: left;
+  margin-top: 3%;
+  text-decoration: underline rgb(0, 165, 105);
+}
+
+/* Changes the link attribute colors. */
+a:hover,
+a:link,
+a:visited {
+  color: rgb(0, 206, 131);
+  text-decoration: none;
+}
+
+/* Styling to make text orange */
+.orange-text {
+  color: rgb(255, 111, 0);
+}
+
+/* Styling to make text red */
+.red-text {
+  color: rgb(255, 0, 0);
+} 
+
+/* Styling to make text green */
+.green-text {
+  color: rgb(0, 128, 0);
+}
+
+/* Styling to make text blue */
+.blue-text {
+  color: rgb(0, 0, 255);
+}
