@@ -4,5 +4,4 @@
 - 🌱 I’m currently learning fullstack web development and software engineering.
 - 📫 How to reach me:
 - Email: jaydenlberg2005@gmail.com
-- 😄 Pronouns: no
 - ⚡ Fun fact: Wales are rather large.
