@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Cardinal117
+- Real name: Jayden L
 - 👀 This is my cv showcasing a minor amount of my web and js skills I will
 - update this website and add new things in the future.
 - 🌱 I’m currently learning fullstack web development and software engineering.
